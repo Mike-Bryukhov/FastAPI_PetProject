@@ -23,6 +23,7 @@ coverage.xml
 cover/
 
 # Environments
+.gitignore
 .env
 .venv
 .idea
